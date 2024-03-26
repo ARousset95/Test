@@ -1,2 +1,2 @@
 print("Thibault ce boss")
-print("Antoine apprend super vite")
+print("Antoine est un boss aussi")
